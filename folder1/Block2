@@ -1,1 +1,0 @@
-return sendMail ('bruna.rizk@elementn.com', 'bruna.rizk@elementn.com', 'hi', 'return 6;')
