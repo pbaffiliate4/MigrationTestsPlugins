@@ -1,1 +1,0 @@
-{"acl":{"read":"dev3;dev4;group:group2;dev2;dev1;group:group1;group:group3","write":"dev1;dev2;dev3;dev4;group:group1;group:group3;group:group2","execute":"dev1;dev2;dev3;dev4;group:group1;group:group2;group:group3"},"contentType":"application\/vnd.scriptr-javascript"}
